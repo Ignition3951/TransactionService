@@ -1,4 +1,4 @@
-package com.utk.transactionService;
+package com.utk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
